@@ -2,6 +2,8 @@ SkillUP blog project
 Install dependencies
 ''' bash
 
+
+
 pip install Django
 
 Start Project
